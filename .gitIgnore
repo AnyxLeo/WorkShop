@@ -3,6 +3,7 @@
 # Edit at https://www.gitignore.io/?templates=osx,node,windows,visualstudio
 
 *.cache
+bin/Debug/netcoreapp2.2
 ### Node ###
 # Logs
 logs
