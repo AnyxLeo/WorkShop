@@ -3620,11 +3620,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ana.atayde\\source\\repos\\Tubular\\Tubular.Data\\Tubular.Data.csproj",
+      "projectUniqueName": "C:\\Users\\ana.atayde\\Documents\\Anexo\\Tubular\\Tubular.Data\\Tubular.Data.csproj",
       "projectName": "Tubular.Data",
-      "projectPath": "C:\\Users\\ana.atayde\\source\\repos\\Tubular\\Tubular.Data\\Tubular.Data.csproj",
+      "projectPath": "C:\\Users\\ana.atayde\\Documents\\Anexo\\Tubular\\Tubular.Data\\Tubular.Data.csproj",
       "packagesPath": "C:\\Users\\ana.atayde\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ana.atayde\\source\\repos\\Tubular\\Tubular.Data\\obj\\",
+      "outputPath": "C:\\Users\\ana.atayde\\Documents\\Anexo\\Tubular\\Tubular.Data\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

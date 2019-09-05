@@ -12383,11 +12383,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ana.atayde\\source\\repos\\Tubular\\Tubular.Web\\Tubular.Web.csproj",
+      "projectUniqueName": "C:\\Users\\ana.atayde\\Documents\\Anexo\\Tubular\\Tubular.Web\\Tubular.Web.csproj",
       "projectName": "Tubular.Web",
-      "projectPath": "C:\\Users\\ana.atayde\\source\\repos\\Tubular\\Tubular.Web\\Tubular.Web.csproj",
+      "projectPath": "C:\\Users\\ana.atayde\\Documents\\Anexo\\Tubular\\Tubular.Web\\Tubular.Web.csproj",
       "packagesPath": "C:\\Users\\ana.atayde\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ana.atayde\\source\\repos\\Tubular\\Tubular.Web\\obj\\",
+      "outputPath": "C:\\Users\\ana.atayde\\Documents\\Anexo\\Tubular\\Tubular.Web\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -12406,8 +12406,8 @@
       "frameworks": {
         "netcoreapp2.2": {
           "projectReferences": {
-            "C:\\Users\\ana.atayde\\source\\repos\\Tubular\\Tubular.Data\\Tubular.Data.csproj": {
-              "projectPath": "C:\\Users\\ana.atayde\\source\\repos\\Tubular\\Tubular.Data\\Tubular.Data.csproj"
+            "C:\\Users\\ana.atayde\\Documents\\Anexo\\Tubular\\Tubular.Data\\Tubular.Data.csproj": {
+              "projectPath": "C:\\Users\\ana.atayde\\Documents\\Anexo\\Tubular\\Tubular.Data\\Tubular.Data.csproj"
             }
           }
         }
